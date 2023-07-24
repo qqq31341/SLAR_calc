@@ -9,8 +9,5 @@
         <module name="SLAR" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="SLAR" target="16" />
-    </bytecodeTargetLevel>
   </component>
 </project>
