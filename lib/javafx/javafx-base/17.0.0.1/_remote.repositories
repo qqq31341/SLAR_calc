@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 30 13:48:20 EET 2021
+javafx-base-17.0.0.1.jar>central=
+javafx-base-17.0.0.1.pom>central=
+javafx-base-17.0.0.1-win.jar>central=

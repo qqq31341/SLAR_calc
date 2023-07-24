@@ -6,8 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="SLAR_calculate" />
+        <module name="SLAR" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SLAR" target="16" />
+    </bytecodeTargetLevel>
   </component>
 </project>

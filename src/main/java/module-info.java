@@ -1,10 +1,11 @@
-module com.example.slar_calculate {
+module classes.slar {
     requires javafx.controls;
     requires javafx.fxml;
     requires matheclipse.core;
     requires matheclipse.frontend;
+    requires org.apache.poi.ooxml;
 
 
-    opens com.example.slar_calculate to javafx.fxml;
-    exports com.example.slar_calculate;
+    opens classes.slar to javafx.fxml;
+    exports classes.slar;
 }
